@@ -6,3 +6,5 @@
 2. Copiar os números;
 3. Salvar os números e jogos feitos;
 4. Conferir os jogos com base nos resultados divulgados.
+
+Todo o projeto será desenvolvido utilizando: Python e Django.
